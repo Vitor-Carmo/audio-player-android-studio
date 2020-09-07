@@ -9,11 +9,11 @@
 <br/>
 
 ## What I've learned
-* Use media player appropriately
-* Use Seek Bar and sync with the media player song
-* how to change the color of Status Bar dynamically on the program
-* how to change the color of SeekBar dynamically on the program
-* how to change the color of imageviw background dynamically on the program
+* how to use **media player** appropriately
+* how to use **Seek Bar** and **sync** it with the **media player song**
+* how to **change the color of Status Bar** dynamically on the program
+* how to **change the color of SeekBar** dynamically on the program
+* how to **change the color of imageview background dynamically** on the program
 
 <br/>
 
