@@ -4,7 +4,7 @@
 <img src="readme/img2.png" height="300px"/><img src="readme/img1.png" height="300px"/><img src="readme/img3.png" height="300px"/><img src="readme/img4.png" height="300px"/>
 </div>
 
-#### **Audio player app** that **play songs** with android studio with Java. (it's static songs)
+#### Audio player app that play songs with android studio with Java. (it's static songs)
 
 <br/>
 
